@@ -1,0 +1,2 @@
+# Zdomino.
+Scrip termux
