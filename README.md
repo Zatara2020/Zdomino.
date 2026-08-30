@@ -8,7 +8,7 @@
 
 ```bash $ git clone https://github.com/Zatara2020/Zdomino.```
 
-```bash $ cd Zdomino```
+```bash $ cd Zdomino.```
 
 ```bash $ pip3 install -r requirements.txt```
 
@@ -20,6 +20,6 @@
 
 ## Ejemplos$  
 
-```bash $ python3ctfr.py -d starbucks.com```
+```bash $ python3 ctfr.py -d starbucks.com```
 
 ```bash python3 ctfr.py -d facebook.com -o /home/shei/subdomains_fb.txt```
